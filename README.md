@@ -43,6 +43,12 @@ A simple .NET console application that demonstrates usage of the `CatFactLibrary
    dotnet run --project CatFact_ConsoleApp/CatFact_ConsoleApp.csproj
    ```
 
+If you open this project in Visual Studio, you can just select **CatFact_ConsoleApp** in dropdown menu and press green triangle
+![Console App](screenshots/screenshot2.png)
+
+And after that you should see the Terminal UI with app
+![Terminal View](screenshots/screenshot3.png)
+
 ---
 
 ## 3. CatFact_WebApp
@@ -64,6 +70,11 @@ A Blazor application for browsing cat facts in the browser.
    ```
 3. Open the provided URL in your browser (usually `https://localhost:7257/` or similar).
 
+If you open this project in Visual Studio, you can just select **CatFact_WebApp** in dropdown menu and press green triangle
+![Console App](screenshots/screenshot1.png)
+
+And after that you should see the Terminal UI with app
+![Terminal View](screenshots/screenshot4.png)
 ---
 
 ## Solution Structure
@@ -79,6 +90,7 @@ CatFact_WebApp/         # Blazor web app
 ## Requirements
 - [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - Visual Studio 2022+ or VS Code (recommended)
+- Internet Connection (for API Response)
 
 ---
 
