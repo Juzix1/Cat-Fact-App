@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfactlibrary\\model\\factmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|solutionrelative:catfactlibrary\\model\\factmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfactlibrary\\service\\catfactmanager\\catfactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|solutionrelative:catfactlibrary\\service\\catfactmanager\\catfactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfactlibrary\\service\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|solutionrelative:catfactlibrary\\service\\fileservice\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfactlibrary\\service\\requestservice\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|solutionrelative:catfactlibrary\\service\\requestservice\\requestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfactlibrary\\service\\requestservice\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|solutionrelative:catfactlibrary\\service\\requestservice\\irequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865BA04-EAD0-4824-9268-1C759F9FC986}|CatFact_ConsoleApp\\CatFact_ConsoleApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_consoleapp\\uimanager\\iuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865BA04-EAD0-4824-9268-1C759F9FC986}|CatFact_ConsoleApp\\CatFact_ConsoleApp.csproj|solutionrelative:catfact_consoleapp\\uimanager\\iuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865BA04-EAD0-4824-9268-1C759F9FC986}|CatFact_ConsoleApp\\CatFact_ConsoleApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_consoleapp\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865BA04-EAD0-4824-9268-1C759F9FC986}|CatFact_ConsoleApp\\CatFact_ConsoleApp.csproj|solutionrelative:catfact_consoleapp\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E865BA04-EAD0-4824-9268-1C759F9FC986}|CatFact_ConsoleApp\\CatFact_ConsoleApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E865BA04-EAD0-4824-9268-1C759F9FC986}|CatFact_ConsoleApp\\CatFact_ConsoleApp.csproj|solutionrelative:catfact_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\components\\pages\\catfacts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\components\\pages\\catfacts.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfact_webapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{BB6EAF52-64F5-4DFF-B2F4-4A39E0CA1023}|CatFact_WebApp\\CatFact_WebApp.csproj|solutionrelative:catfact_webapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|c:\\users\\kapik\\documents\\github\\cat-fact-app\\catfactlibrary\\service\\catfactmanager\\icatfactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8723AC-239E-4A48-8346-377A8577B8C4}|CatFactLibrary\\CatFactLibrary.csproj|solutionrelative:catfactlibrary\\service\\catfactmanager\\icatfactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAEMCAAAAAAAAAAAgwGYCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-28T11:47:26.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\RequestService\\IRequestService.cs",
+              "RelativeDocumentMoniker": "CatFactLibrary\\Service\\RequestService\\IRequestService.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\RequestService\\IRequestService.cs",
+              "RelativeToolTip": "CatFactLibrary\\Service\\RequestService\\IRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:45:52.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FactModel.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Model\\FactModel.cs",
+              "RelativeDocumentMoniker": "CatFactLibrary\\Model\\FactModel.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Model\\FactModel.cs",
+              "RelativeToolTip": "CatFactLibrary\\Model\\FactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:42:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_ConsoleApp\\UIManager\\UIManager.cs",
+              "RelativeDocumentMoniker": "CatFact_ConsoleApp\\UIManager\\UIManager.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_ConsoleApp\\UIManager\\UIManager.cs",
+              "RelativeToolTip": "CatFact_ConsoleApp\\UIManager\\UIManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:40:53.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_ConsoleApp\\UIManager\\IUIManager.cs",
+              "RelativeDocumentMoniker": "CatFact_ConsoleApp\\UIManager\\IUIManager.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_ConsoleApp\\UIManager\\IUIManager.cs",
+              "RelativeToolTip": "CatFact_ConsoleApp\\UIManager\\IUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T11:40:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Routes.razor",
+              "RelativeToolTip": "CatFact_WebApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T11:21:18.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "favicon.ico - PNG [512x512, 32-bitowy, PNG]",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\wwwroot\\favicon.ico - PNG [512x512, 32-bitowy, PNG]",
+              "RelativeToolTip": "CatFact_WebApp\\wwwroot\\favicon.ico - PNG [512x512, 32-bitowy, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-07-28T11:03:42.384Z",
+              "EditorCaption": " - PNG [512x512, 32-bitowy, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "CatFact_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-28T10:50:04.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\wwwroot\\app.css",
+              "RelativeToolTip": "CatFact_WebApp\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-28T10:49:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "CatFact_WebApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:49:55.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CatFacts.razor",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Pages\\CatFacts.razor",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Components\\Pages\\CatFacts.razor",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Pages\\CatFacts.razor",
+              "RelativeToolTip": "CatFact_WebApp\\Components\\Pages\\CatFacts.razor",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:17:39.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\App.razor",
+              "RelativeToolTip": "CatFact_WebApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:16:57.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "CatFact_WebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:16:55.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "CatFact_WebApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T10:16:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICatFactManager.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\CatFactManager\\ICatFactManager.cs",
+              "RelativeDocumentMoniker": "CatFactLibrary\\Service\\CatFactManager\\ICatFactManager.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\CatFactManager\\ICatFactManager.cs",
+              "RelativeToolTip": "CatFactLibrary\\Service\\CatFactManager\\ICatFactManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:10:18.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "CatFact_ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_ConsoleApp\\Program.cs",
+              "RelativeToolTip": "CatFact_ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:07:48.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\FileService\\FileService.cs",
+              "RelativeDocumentMoniker": "CatFactLibrary\\Service\\FileService\\FileService.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\FileService\\FileService.cs",
+              "RelativeToolTip": "CatFactLibrary\\Service\\FileService\\FileService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:07:38.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestService.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\RequestService\\RequestService.cs",
+              "RelativeDocumentMoniker": "CatFactLibrary\\Service\\RequestService\\RequestService.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\RequestService\\RequestService.cs",
+              "RelativeToolTip": "CatFactLibrary\\Service\\RequestService\\RequestService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:07:28.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatFactManager.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\CatFactManager\\CatFactManager.cs",
+              "RelativeDocumentMoniker": "CatFactLibrary\\Service\\CatFactManager\\CatFactManager.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFactLibrary\\Service\\CatFactManager\\CatFactManager.cs",
+              "RelativeToolTip": "CatFactLibrary\\Service\\CatFactManager\\CatFactManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:07:12.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CatFact_WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\Program.cs",
+              "RelativeToolTip": "CatFact_WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:00:21.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

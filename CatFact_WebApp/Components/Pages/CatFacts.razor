@@ -1,0 +1,138 @@
+﻿@page "/"
+@using CatFactLibrary.Model
+@using CatFactLibrary.Service
+@inject ICatFactManager CatFactManager
+@inject IFileService FileService
+@rendermode InteractiveServer
+
+<PageTitle>Cat Facts 🐈</PageTitle>
+
+<div class="animated-gradient">
+    <div class="container mt-4 ">
+        <h1 class="xl py-2 text-white">😺Cat Facts Generator</h1>
+
+        <button class="btn btn-primary btn-lg border-0" @onclick="GetNewFact" disabled="@isLoading">
+
+        @if (isLoading)
+        {
+            <span class="spinner-border spinner-border-sm me-2" role="status"></span>
+            <span>Loading...</span>
+        }
+        else
+        {
+            <span>Get new fact about cats!</span>
+        }
+        </button>
+    
+        @if (savedFacts.Any())
+        {
+            <button class="btn btn-primary btn-lg bg-danger border-0 ms-4" @onclick="ResetSavedFacts">Clear Saved Facts</button>
+        }
+
+
+        @if (!string.IsNullOrEmpty(message))
+        {
+            <div class="alert alert-info mt-3"> @message</div>
+        }
+
+        @if (currentFact != null)
+        {
+            <div class="card mt-4">
+                <div class="card-body">
+                    <h5 class="card-title">Newest fact:</h5>
+                    <p class="card-text">@currentFact.Fact</p>
+                    <small class="text-muted">Length @currentFact.Length</small>
+                </div>
+            </div>
+        }
+        @if (savedFacts.Any())
+        {
+            <div class="mt-4">
+                <h3 class="text-white">Saved facts in file:</h3>
+                <ul class="list-group">
+                    @foreach (var fact in savedFacts)
+                    {
+                        <li class="list-group-item">@fact.Fact</li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    html{
+        margin:0;
+        padding:0;
+    }
+    .animated-gradient {
+        margin-top:-25px;
+        min-height: 100vh;
+        background: linear-gradient(-45deg, #ee7752, #e73c7e,#23a6d5,#23d5ab);
+        background-size: 400% 400%;
+        animation: gradientShift 15s ease infinite;
+    }
+    @@keyframes gradientShift {
+        0%{background-position: 0% 50%;}
+        
+        50%{ background-position: 100% 50%;}
+        
+        100%{background-position: 0% 50%}
+       }
+</style>
+
+@code {
+    private FactModel? currentFact;
+    private List<FactModel?> savedFacts = new();
+    private string message = "";
+    private bool isLoading = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        savedFacts = CatFactManager.GetFactFromFile();
+    }
+
+    private async Task GetNewFact()
+    {
+
+        isLoading = true;
+        message = "";
+        StateHasChanged();
+
+        try
+        {
+            currentFact = await CatFactManager.GetFactFromRequest();
+            savedFacts = CatFactManager.GetFactFromFile();
+            message = "New fact has been downloaded";
+        }
+        catch (Exception ex)
+        {
+            message = $"Error: {ex.Message}";
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+
+    private void ResetSavedFacts()
+    {
+        isLoading = true;
+        message = "";
+        StateHasChanged();
+        try
+        {
+            CatFactManager.ClearFactFile();
+            message = "Saved Facts Cleared";
+            savedFacts = CatFactManager.GetFactFromFile();
+        }
+        catch (Exception ex)
+        {
+            message = $"Error: {ex.Message}";
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}
