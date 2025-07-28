@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4A7Sn8GlYs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kapik\\Documents\\Github\\Cat-Fact-App\\CatFact_WebApp\\CatFact_WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kapik\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.7\\microsoft.extensions.configuration.abstractions.9.0.7.nupkg.sha512",
+    "C:\\Users\\kapik\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
