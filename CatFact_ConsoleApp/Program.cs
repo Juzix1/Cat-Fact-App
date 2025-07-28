@@ -23,7 +23,6 @@ while (Run)
             isFirstRun = false;
             UI.Clear();
             UI.PrintLogo();
-            fact = factManager.GetFactFromRequest().Result;
 
         }
 
